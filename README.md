@@ -12,7 +12,7 @@
 <!-- Imagem da Tela inicial do Aplicativo -->
 <div align="center">
 
- Projeto em **DESENVOLVIMENTO**
+ ## em **CONSTRUÇÃO**
  </div>
 
 </br>

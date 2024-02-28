@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");  /* ROBOTO*/
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");          /* OUTFIT*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Open+Sans:ital,wght@0,300;0,500;0,700;0,800;1,300;1,400;1,500;1,600&display=swap");       /* INTER*/                  
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, roboto, Open-Sans, open sans, Inter ,sans-serif;
+}
+
+
+/* -------------------------->  Color <------------------------------ */
+:root {
+  --primary-acqua: #08d9d6;
+  --primary-gray: #252a34;
+  --primary-pink: #ff2e63;
+  --accent-color: #eaeaea;
+  --primary-orange: #ff4c29;
+}

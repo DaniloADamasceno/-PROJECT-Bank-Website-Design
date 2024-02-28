@@ -1,0 +1,32 @@
+.mat-toolbar {
+  background-color: var(--primary-pink);
+  color: var(--accent-color);
+}
+.mat-button {
+  color: var(--accent-color);
+}
+.spacer {
+  flex: 1 1 auto;
+}
+
+.example-form {
+  min-width: 150px;
+  width: 90px;
+}
+
+.example-full-width {
+  width: 150px;
+  height: 85px;
+  padding-top: 25px;
+}
+
+
+
+/* ----------------> Botão */
+.mini-button {
+  color: var(--primary-pink);
+  margin: 50px auto 40px 155px;
+  width: 25px;
+  height: 25px;
+  font-family: Roboto;
+}

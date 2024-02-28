@@ -1,0 +1,30 @@
+<mat-toolbar color="primary">
+    <span>
+        SOFWAY</span>
+    <div class="spacer"></div>
+
+
+
+    <form class="example-form">
+        <a><mat-form-field class="example-full-width">
+                <mat-label>Agência</mat-label>
+                <input matInput placeholder="Ex. 1234" value="">
+            </mat-form-field></a>
+
+        <a><mat-form-field class="example-full-width">
+                <mat-label>Conta</mat-label>
+                <input matInput placeholder="Ex. 00001234" value="">
+            </mat-form-field></a>
+    </form>
+    <a>
+        <button class="mini-button" mat-fab extended color="accent">
+            Ok
+        </button>
+    </a>
+
+
+
+    <div class="spacer"></div>
+    <a mat-button routerLink="/users">Cliente</a>
+    <a mat-button routerLink="/add">Funcionario</a>
+</mat-toolbar>

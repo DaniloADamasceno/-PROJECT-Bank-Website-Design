@@ -26,7 +26,7 @@ public class UserService {
     //%% --> Criar um usuário
     public UUID createUser(CreateUserDto createUserDto) {
 
-        // Converter de DTO pra ENTITY
+        // --> Converter de DTO pra ENTITY
         var entityConvert = new User(
                 UUID.randomUUID(),
                 createUserDto.username(),

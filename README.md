@@ -12,7 +12,8 @@
 <!-- Imagem da Tela inicial do Aplicativo -->
 <div align="center">
 
- ## em **CONSTRUÇÃO**
+### EM CONSTRUÇÃO
+
  </div>
 
 </br>
@@ -22,24 +23,26 @@
 
 </br>
 
-Este é um projeto de Site de Banco desenvolvido com Angular, Spring Boot e Java.
-Ele foi criado para fornecer um site de suporte ao cliente de banco onde os usuários podem:
+   Este é um projeto de Site de Banco desenvolvido com Angular, Spring Boot e Java.
+Ele foi criado para fornecer um site de suporte ao cliente de banco onde os usuários podem realizar diversas ações.
 
-Fazer Transações
+O Sistema contara com:
 
-Consultar Saldo
+- Fazer Transações
 
-Consulta de empréstimos
+- Consultar Saldo
 
-Sugestões do banco para investimentos
+- Consulta de empréstimos
 
-Pedir detalhamento de conta
+- Sugestões do banco para investimentos
 
-migração de contas ( Corrente / poupança / Salário)
+- Pedir detalhamento de conta
 
-Fazer investimentos
+- Migração de contas ( Corrente / poupança / Salário)
 
-Entre outras operações bancarias.
+- Fazer investimentos
+
+- Entre outras operações bancarias.
 
 ## Pré-requisitos
 
@@ -52,6 +55,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas e tecnologias i
 **Java**: A linguagem de programação Java para desenvolvimento backend.
 
 **Spring Boot**: Um framework Java para criar aplicativos web e APIs RESTful.
+
+**Docker**: software de código aberto usado para implantar aplicativos dentro de containers virtuais.
 
 ## Instalação
 
@@ -73,7 +78,7 @@ cd help-desk/frontend
 
 ```bash
 npm install
-```
+```s
 
 4. Inicie o servidor de desenvolvimento Angular:
 
@@ -122,10 +127,19 @@ Se desejar contribuir para este projeto, siga estas etapas:
 
 ## Stack utilizada
 
-**Front-end:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Badge Angular")
+**Front-end:**
 
-**Back-end:**  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "Badge Java")
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "Badge Spring Boot")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Badge Angular")
+
+**Back-end:**
+
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white "Badge Java")
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Banco de Dados:**
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Autores
 
@@ -135,13 +149,29 @@ Se desejar contribuir para este projeto, siga estas etapas:
 </br>
 </br>
 
-________________________________________________________________________________________________________________________________________________________________
+
+## Autores
+
+- [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
+
+</br>
+</br>
+</br>
+
+***
 
 ## Atualizações de Projeto e suas Versões
 
-*Atualização* 1.1.0 :
-> Desenvolvimento do Back-End.
-> Back-END em desenvolvimento.
->
-> --> **PROJETO EM DESENVOLVIMENTO.**
+### **Atualização**: 1.1.1:
+
+- Realização de Testes Unitários.
+- BACK-END em desenvolvimento.
+- --> **PROJETO EM DESENVOLVIMENTO.**
+  </br>
+
+### **Atualização**: 1.0.0:
+
+- Criação do CRUD de Usuários.
+- BACK-END em desenvolvimento.
+- --> **PROJETO EM DESENVOLVIMENTO.**
 </br>

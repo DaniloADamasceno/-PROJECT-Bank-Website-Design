@@ -12,7 +12,7 @@
 <!-- Imagem da Tela inicial do Aplicativo -->
 <div align="center">
 
-### EM CONSTRUÇÃO
+### 🧱 EM CONSTRUÇÃO
 
  </div>
 
